@@ -1,0 +1,35 @@
+{
+  "latest-Listen": {
+    "liked-songs": {
+      "name": "liked songs",
+      "cover": ""
+    },
+    "pnl": {
+      "name": "PNL - Deux frères",
+      "cover": ""
+    },
+    "dinos": {
+      "name": "Dinos - Taciturne",
+      "cover": ""
+    },
+    "freeze": {
+      "name": "Freeze Corleone - LMF",
+      "cover": ""
+    }
+  },
+
+  "latest-listen-deux": {
+    "categoryName": [
+      "liked songs",
+      "PNL - Deux frères",
+      "Dinos - Taciturne",
+      "Freeze Corleone - LMF"
+    ],
+    "categoryCover": [
+      "liked songs",
+      "../assets/img/LatestListenImages/img1.png",
+      "../assets/img/LatestListenImages/img2.png",
+      "../assets/img/LatestListenImages/img3.png"
+    ]
+  }
+}
